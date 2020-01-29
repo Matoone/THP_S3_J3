@@ -16,7 +16,7 @@ A chaque format, tu vas créer une méthode spécifique pour enregistrer le rés
 
 ## Authors
 
-* **Matthieu Degré** - *Initial work* - [PurpleBooth](https://github.com/Matoone)
+* **Matthieu Degré** - *Initial work* - [Matoone](https://github.com/Matoone)
 
 
 
