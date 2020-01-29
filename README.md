@@ -1,6 +1,8 @@
-# Project Title
+# Projet : Sauvegarder des données en masse
 
-This project is about ...
+Le projet du jour a pour but d'enregistrer dans 3 formats différents les e-mails du Val d'Oise (tu te rappelles bien sûr de ce projet, hein ?). Pour ce faire, reprends le programme que tu avais fait précédemment et mets dans une belle classe. Bien entendu (et cela vaudra pour TOUS les projets à venir), ton programme sera inclus dans un dossier bien structuré.
+
+A chaque format, tu vas créer une méthode spécifique pour enregistrer le résultat de ton scrappeur.
 
 ## Getting Started
 
@@ -8,13 +10,9 @@ This project is about ...
 
 2/ $ bundle install in ROOT directory.
 
-### Prerequisites
+3/ $ ruby app.rb
 
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
+4/ Follow instructions
 
 ## Authors
 

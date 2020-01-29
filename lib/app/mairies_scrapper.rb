@@ -62,9 +62,6 @@ class MairiesScrapper
     session = GoogleDrive::Session.from_service_account_key("config.json")
     spreadsheet= session.spreadsheet_by_title("Emails")
     worksheet = spreadsheet.worksheets.first
-    # worksheet.rows.each { |row| puts row.first(6).join(" | ") }
-    # worksheet.insert_rows(2, [["Hello!", "This", "was", "inserted", "via", "Ruby"]])
-      
     @emails.each_with_index do |element,index|
     element.each{|key, value| worksheet.insert_rows(index+1, [[key, value]])} 
     end

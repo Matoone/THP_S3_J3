@@ -7,5 +7,4 @@ require 'open-uri'
 require 'json'
 require 'google_drive'
 
-
 emails = MairiesScrapper.new.perform
