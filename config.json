@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "townhallemail-266612",
+  "private_key_id": "f8e96e05428e618f752d0ee37c2561a3ff315e20",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDF1l/9hT52jX3u\nKz9WYDnTJiNmOq75FdJxqBuBBqoqsxdPUknPav10o5eVo8/Brm57DU3h4qJx/+FP\nuVMBevub1cjkX4Os1Y+FjrBUohTzsAWHQ0j8/Ia6+faou4q4qkhiGT7OtfL2ImmS\n+ODR7Mr/z8X0ftq/zv+8vbLXaEXJJXi7FBiWab5k2yzwZ6iBq1f+qzP1BjsQU5FK\nu/HHA4JNZ9Dz+qr+0/01DkYk91oM26dMBZyAPK0eUHP5MgWQTpUAZ+pTu//4Yi21\nKzR4vEdyVNHJd5BxtBfqqohftJ6U9WuOqVMftHhj3TkSLLhoJne+UZcdNlpCFJMF\nvG8iLTInAgMBAAECggEAQBlvTIMJc/vwG2Tjxqay1Zj7yzmkS4wofS7MioeQRvlz\nyf2NcKjnqgz/JjrHK6fKoA/1dgSqQWl4pQ4UuNwR/bHMv0G7NhqTv+A1fZZuV25m\nvCau1Vk0hgxLQOxSy/ZQMYigcvU83UbVEguVPC8OrsexCcC4O4FkFtEXyvc79Sme\nLZIzmQcOJmikl/gwhnhFG9F2Ip8UWg3KWpRuALR5dSWE7T29Ce6Hm6drL07LWErt\n3zb+vj8IF9B5gmu/NY7qIAj/UoYl3LhNcl9b47EOIuq+Xris8SHdn+SUQRycptR3\nP0PXUVxQ+Doa87wLdAVGcLCOteZGmwnnp9Uy/oRssQKBgQD7ykkIEZnQFJz6ceA0\nswaU3pcR+s9S+SDI8GskhoF7zACyaUzr24lMjLVm0gpkX6R/txTQEs3qpMKQAytC\n70OVs87c5tAwZV3QAt2NMPeJ3c6NXuRRq9Yc5Ti3TCeKt0+Ft7rnzogFJFudRgL/\n7CE9/kP5ZpQKoW3yKdv97lHKjQKBgQDJJSkWmrjwDlWlenHXgOVjX9lGdVEtYCkP\nesLk3kr5olQR2Xg2yXRiv6a+sPa3n2VT39KooUCtUXLeZ4gmtBDomR3e3tV6bGMg\nDrEdCDJ6QlCsnKTNkW/ydt3D/LTRRkH5wnJnG2hdfgQ15qZ8we/tzAZjvfPHw13N\nCSY2kJ+8gwKBgE8OT2niJNopbrRPxualAz8AuIwjpK7Xm8ybd/iK5uLYxas+1rED\nSBOp5lb3Qd4MDZkwAa/nB5JR0ujmpdGpUB4Ty7KeIeXgHdlu3OM06bP22aCXl7Zw\n7pQ6AFnE5nFuZuCENIIN3bVHmiBCWDTEjhdp2yvWYksILn4nWHRdPH8NAoGBAJas\nI28vT0FjO3zNj+FiSHJ8JgHFd52J3rgduUg/y+HbWyZTxN0lYu1lqr5FSUqbOAfw\nLZjr0csCrA01eKOlVtUlfV6phThDYK1u0/VvYoB6lHv4iusB+t2hdNWOwtPQ0TMK\nGTBrM251KypFMIlbrSJwJokojSgijG0+YUWWaFGJAoGBAMpAbE/4ohwzJ2hrpJXm\npZv3ctz1bnxMmB2DxqzwL5NsNWZFYYvySodE8fnycL5QH70boF0NMAuW4zWjwj5J\n6bcT7wXS8eUenfhXQ9XMf0Kv3UsjElyHWgCgjLs0hKI5jnppwmRZ1noEJWAZgF8j\n2O6Mc+ZLLL//WbjDCi1FGKV/\n-----END PRIVATE KEY-----\n",
+  "client_email": "townhall-emails@townhallemail-266612.iam.gserviceaccount.com",
+  "client_id": "112882409121491829453",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/townhall-emails%40townhallemail-266612.iam.gserviceaccount.com"
+}
